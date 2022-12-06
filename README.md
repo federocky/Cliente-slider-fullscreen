@@ -13,5 +13,5 @@ A simple full-screen slider made only with HTML CSS JS following along this grea
 ## Author Info
 
 - Linkedin - [Federico Andrés Jácome Castañeda](https://www.linkedin.com/in/federicojacome/)
-- Website - [To be added](https://github.com/federocky)
+- Website - [Portfolio](http://fedeandresdeveloper.online/)
 
